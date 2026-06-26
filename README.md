@@ -97,9 +97,9 @@ Parking charges are calculated automatically based on:
 
 | Vehicle Type | Charge Per Hour |
 |--------------|-----------------|
-| 🚲 Bike  |         | ₹10 |
-| 🚗 Car   |         | ₹20 |
-| 🚚 Truck |         | ₹40 |
+| 🚲 Bike           | ₹10 |
+| 🚗 Car            | ₹20 |
+| 🚚 Truck          | ₹40 |
 
 > Minimum parking fee is charged for **1 hour**.
 
@@ -207,7 +207,7 @@ The project is divided into separate Java classes, making the code organized, re
 ### Clone Repository
 
 ```bash
-git clone https://github.com/Ashleshagaikwad062/Parking-Management-System.git
+https://github.com/Ashleshagaikwad062/Parking-Management-System.git
 ```
 
 ### Open in IntelliJ IDEA
@@ -268,5 +268,3 @@ Diploma in Computer Engineering
 Aspiring Software Engineer | Java Developer
 
 ---
-
-## ⭐ If you found this project helpful, don't forget to Star this repository!
